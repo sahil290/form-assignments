@@ -1,0 +1,81 @@
+body > .header {
+    width: 1100px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+    padding: 1px 4px 0px 4px;
+    background-color: rgb(255, 253, 202);
+}
+
+.header > .pan_header {
+    margin: auto;
+    width: 1100px;
+    height: auto;
+    background-color: rgb(173, 9, 9);
+}
+
+.pan_header > p {
+    text-align: center;
+    color: white;
+}
+
+.header > .table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nameFields > div {
+    font-weight: bold;
+}
+
+.nameFields_dad > div {
+    font-weight: bold   ;
+}
+
+.nameFields_mom > div {
+    font-weight: bold;
+}
+
+.five > div {
+    font-weight: bold;
+}
+
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr > div {
+    display: inline;
+    font-weight: bold;
+}
+
+.pdf {
+    display: flex;
+    align-items: stretch;
+    margin: 5px auto 0 auto;
+    background-color: rgb(215, 215, 215);
+    width: 1108px;    
+    height: auto;
+}
+
+.pdf > div {
+    text-align: center;
+    padding: 5px;
+}
+
+.table_2 > tr {
+    font-weight: bold;
+}
+
+.table ~ div {
+    display: inline;
+}
+
+.documents > input {
+    margin-left: 389px;
+    margin-top: 20px;
+    width: 400px;
+    height: 80px;
+}
